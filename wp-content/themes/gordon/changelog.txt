@@ -1,0 +1,29 @@
+Version 1.1.1 
+    Added:
+    	- Privacy Policy page
+    	- Alert to Demo data installation
+    Fixed: 
+	    - Update plugins to their latest versions 
+	    - Compatibility with Slider Revolution 6.1.1
+	    - Compatibility with WPBakery Page Builder 6.0.5
+	    - Compatibility with PHP 7.3
+	    - Update scripts  libraries
+      - Compatibility with Gutenberg
+      - Improve theme styles
+    Changed: 
+    	- Update default contact forms to make them GDPR-compliant
+    	- Replace default contact forms with Contact Form 7
+      - Update demo data
+
+Version 1.1
+	-Fixed style for IE
+	-Plugins updated
+
+Version 1.0.2
+	-Plugins updated
+
+Version 1.0.1
+	-Documentation is updated
+
+Version 1.0
+	-Release

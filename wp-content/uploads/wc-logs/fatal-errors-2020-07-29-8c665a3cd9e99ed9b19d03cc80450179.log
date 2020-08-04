@@ -1,0 +1,17 @@
+2020-07-29T16:09:22+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/admin/web/willybiz.co.ke/public_html/wp-content/themes/insurance/functions.php on line 231
+
+2020-07-29T16:13:53+00:00 CRITICAL Uncaught Error: Call to undefined function SaaslandCore\Widgets\saasland_limit_latter() in /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/saasland-core/widgets/Saasland_posts_carousel.php:128
+Stack trace:
+#0 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(531): SaaslandCore\Widgets\Saasland_posts_carousel->render()
+#1 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(661): Elementor\Widget_Base->render_content()
+#2 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/element-base.php(668): Elementor\Widget_Base->_print_content()
+#3 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/element-base.php(884): Elementor\Element_Base->print_element()
+#4 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/element-base.php(668): Elementor\Element_Base->_print_content()
+#5 /home/admin/web/willybiz.co in /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/saasland-core/widgets/Saasland_posts_carousel.php on line 128
+
+2020-07-29T17:58:22+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/admin/web/willybiz.co.ke/public_html/wp-content/themes/insurance/functions.php on line 231
+
+2020-07-29T21:09:41+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/admin/web/willybiz.co.ke/public_html/wp-content/themes/insurance/functions.php on line 231
+
+2020-07-29T21:09:46+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/admin/web/willybiz.co.ke/public_html/wp-content/themes/insurance/functions.php on line 231
+

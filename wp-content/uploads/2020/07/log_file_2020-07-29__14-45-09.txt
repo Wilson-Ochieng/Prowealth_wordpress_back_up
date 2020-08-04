@@ -1,0 +1,108 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://willybiz.co.ke
+Data file = /home/admin/web/willybiz.co.ke/public_html/wp-content/uploads/2020/07/demo-content.xml
+Widget file = /home/admin/web/willybiz.co.ke/public_html/wp-content/uploads/2020/07/insurance-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import state Alaska
+[WARNING] Failed to import category_career Finance &amp; Economics
+[WARNING] Failed to import state Florida
+[WARNING] Failed to import state Kentucky
+[WARNING] Failed to import category_career Marketing
+[WARNING] Failed to import state Michigan
+[WARNING] Failed to import state New York
+[WARNING] Failed to import state Ohio
+[WARNING] Failed to import category_career Sales
+[WARNING] Failed to import state Texas
+[WARNING] Failed to import state Virginia
+[WARNING] Failed to import state Washington
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+
+
+------
+New AJAX call!
+[WARNING] Failed to import state Alaska
+[WARNING] Failed to import category_career Finance &amp; Economics
+[WARNING] Failed to import state Florida
+[WARNING] Failed to import state Kentucky
+[WARNING] Failed to import category_career Marketing
+[WARNING] Failed to import state Michigan
+[WARNING] Failed to import state New York
+[WARNING] Failed to import state Ohio
+[WARNING] Failed to import category_career Sales
+[WARNING] Failed to import state Texas
+[WARNING] Failed to import state Virginia
+[WARNING] Failed to import state Washington
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Dirk Young": Invalid post type agent
+[WARNING] Failed to import "Rufus Johnson": Invalid post type agent
+[WARNING] Failed to import "Kellye Allison": Invalid post type agent
+[WARNING] Failed to import "Rodney M. Louis": Invalid post type agent
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - Search - Imported
+Categories - No Title - Imported
+Archives - Archive - Imported
+insurance Recent Posts - Recent Post - Imported
+Tag Cloud - No Title - Imported
+
+Footer One Widget Area : 
+
+Text - No Title - Imported
+
+Footer Two Widget Area : 
+
+Text - insurance - Imported
+
+Footer Three Widget Area : 
+
+Text - Quick links - Imported
+
+Footer Fourth Widget Area : 
+
+Text - Social - Imported
+
+
