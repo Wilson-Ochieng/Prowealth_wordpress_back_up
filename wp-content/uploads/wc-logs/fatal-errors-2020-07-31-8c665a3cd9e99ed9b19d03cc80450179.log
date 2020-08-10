@@ -1,9 +1,0 @@
-2020-07-31T20:13:54+00:00 CRITICAL Uncaught Error: Call to undefined function saasland_day_link() in /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/saasland-core/widgets/part-blog-masonry.php:14
-Stack trace:
-#0 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/saasland-core/widgets/Saasland_blog_grid.php(137): include()
-#1 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(531): SaaslandCore\Widgets\Saasland_blog_grid->render()
-#2 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(661): Elementor\Widget_Base->render_content()
-#3 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/element-base.php(668): Elementor\Widget_Base->_print_content()
-#4 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/element-base.php(884): Elementor\Element_Base->print_element()
-#5 /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/elementor/includes/base/eleme in /home/admin/web/willybiz.co.ke/public_html/wp-content/plugins/saasland-core/widgets/part-blog-masonry.php on line 14
-
